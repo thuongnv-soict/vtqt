@@ -1,0 +1,35 @@
+{
+  "groups": [{
+    "name": "",
+    "type": "vn.com.vhc.vtqt.model.DataSource",
+    "sourceType": "vn.com.vhc.vtqt.model.DataSource"
+  }],
+  "properties": [
+    {
+      "name": "address",
+      "type": "java.lang.String",
+      "sourceType": "vn.com.vhc.vtqt.model.DataSource"
+    },
+    {
+      "name": "password",
+      "type": "java.lang.String",
+      "sourceType": "vn.com.vhc.vtqt.model.DataSource"
+    },
+    {
+      "name": "port",
+      "type": "java.lang.String",
+      "sourceType": "vn.com.vhc.vtqt.model.DataSource"
+    },
+    {
+      "name": "sid",
+      "type": "java.lang.String",
+      "sourceType": "vn.com.vhc.vtqt.model.DataSource"
+    },
+    {
+      "name": "userdb",
+      "type": "java.lang.String",
+      "sourceType": "vn.com.vhc.vtqt.model.DataSource"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,13 @@
+#address: 10.3.11.142
+#port: 1521
+#sid: PAKH
+#userdb: cntt_test
+#password: cntt123
+
+address: 14.160.91.174
+port: 1521
+sid: vhc
+#userdb: fb_owner
+#password: abc123tz
+userdb: vtqt
+password: vtqt123
