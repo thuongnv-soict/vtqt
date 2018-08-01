@@ -3,7 +3,7 @@ Implementation-Title: VienThongQuocTe
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Thuong
 Implementation-Vendor-Id: vn.com.vhc
-Build-Jdk: 1.8.0_172
+Build-Jdk: 1.8.0_181
 Implementation-URL: http://projects.spring.io/spring-boot/vtqt/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
